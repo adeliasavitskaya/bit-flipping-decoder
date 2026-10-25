@@ -1,5 +1,5 @@
 #include <random>
-#include "includes/FERcalculate.h"
+#include "../includes/FERcalculate.h"
 
 
 double calculateFER(const Matrix& H, double p, int I_max,

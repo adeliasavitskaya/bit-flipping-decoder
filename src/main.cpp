@@ -1,6 +1,6 @@
 #include <iostream>
-#include "includes/matrix.h"
-#include "includes/FERcalculate.h"
+#include "../includes/matrix.h"
+#include "../includes/FERcalculate.h"
 
 int main() {
     Matrix H = {

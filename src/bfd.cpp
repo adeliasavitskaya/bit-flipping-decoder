@@ -1,4 +1,4 @@
-#include "includes/bfd.h"
+#include "../includes/bfd.h"
 
 static bool syndrome_ok(const std::vector<int>& M, const std::vector<std::vector<int>>& B) {
     for (const auto& row : B) {
